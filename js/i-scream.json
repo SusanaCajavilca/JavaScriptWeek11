@@ -24,14 +24,14 @@
             "image": "https://susanacajavilca.github.io/JavaScriptWeek11/images/strawberry-sprinkle.svg"  
         },
         {
-            "name": "Ice cream extra1",
+            "name": "Matcha Sprinkle",
             "calories":350,
             "type":" mega ice-scream",
             "ingredients":["Matcha Syrup","Sprinkles","Vanilla Base"],
             "image": "https://susanacajavilca.github.io/JavaScriptWeek11/images/ice-cream-xtra1.svg"  
         },
         {
-            "name": "Ice cream extra2",
+            "name": "Vainilla Sprinkle",
             "calories":500,
             "type":"mega ice-scream",
             "ingredients":["Vainilla Syrup","Chocolate Sprinkles","Coconut Base"],

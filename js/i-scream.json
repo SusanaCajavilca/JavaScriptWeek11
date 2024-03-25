@@ -15,5 +15,13 @@
             "type":"milkshake-type ice-scream",
             "ingredients":["Peach Syrup","Mango Chunks","Vanilla Base"],
             "image": "https://susanacajavilca.github.io/JavaScriptWeek11/images/peach-mango.svg"  
-        }]
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories":300,
+            "type":"ice-scream",
+            "ingredients":["Strawberry Syrup","Sprinkles","Chocolate Base"],
+            "image": "https://susanacajavilca.github.io/JavaScriptWeek11/images/strawberry-sprinkle.svg"  
+        }
+    ]
 }
